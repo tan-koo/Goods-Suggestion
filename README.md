@@ -3,6 +3,6 @@
 
 The information contained in the basket data set is fictitious details obtained from a supermarket. There are 1361 lists in all. The overall data is encoded in a one-hot format. The goal of the work is to promote a product that should be offered together. Apriori algorithm and FP growth algorithm are two methods that I implement.
 
-![image](pictures/quesion.JPG)
+![image](pictures/question.JPG)
 
-[link](https://github.com/tan-koo/Goods-Suggestion/blob/master/jupyter/goods.ipynb) This is how I work the ```programming```
+👉 [jupyter notebook](https://github.com/tan-koo/Goods-Suggestion/blob/master/jupyter/goods.ipynb) This is how I work the ```programming```
