@@ -5,4 +5,4 @@ The information contained in the basket data set is fictitious details obtained 
 
 ![image](pictures/question.JPG)
 
-👉 [jupyter notebook](https://github.com/tan-koo/Goods-Suggestion/blob/master/jupyter/goods.ipynb) This is how I work the ```programming```
+👉 [jupyter notebook](https://github.com/tan-koo/Goods-Suggestion/blob/master/jupyter/goods.ipynb) This is how I work the ```programming``` .
